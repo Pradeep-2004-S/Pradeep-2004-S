@@ -44,17 +44,10 @@
 ---
 
 # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Pradeep-2004-S&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Pradeep-2004-S&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Pradeep-2004-S&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=Pradeep-2004-S&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-2004-S&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-![](https://github-profile-trophy.vercel.app/?username=Pradeep-2004-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Pradeep-2004-S&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-2004-S&layout=compact&theme=tokyonight&hide_border=true)
